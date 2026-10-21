@@ -1,6 +1,6 @@
 module k8s.io/ingress-nginx
 
-go 1.17
+go 1.24
 
 require (
 	github.com/armon/go-proxyproto v0.0.0-20210323213023-7e956b284f0a
@@ -90,7 +90,7 @@ require (
 	github.com/imkira/go-interpol v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
-	github.com/klauspost/compress v1.12.2 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
